@@ -17,6 +17,7 @@ class Redactor extends CI_Controller {
 
                                 $json = array(
                                     'filelink' => 'http://your.image.url/'.$image_data["file_name"],
+                                    'captions' => $_POST['caption']
                                 );
 
                                 echo stripslashes(json_encode($json));
