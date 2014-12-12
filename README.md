@@ -45,4 +45,3 @@ Redactor is propietary software, so don't forget to purchase :)
 
 Hope you enjoy with my plugin.
 Visit my site for more cool stuff http://panicscript.com
-
