@@ -20,23 +20,23 @@ what's new?
 
 How to use it.
 
-1. add script to your editor page
+- add script to your editor page
 <script src="http://url.to/customimg.js"></script>
 
-2. initilize the plugin to redactor init script
+- initilize the plugin to redactor init script
 
 $('#content').redactor({
   plugins: ['customimg'],
 });
 
-3. add custom options to your image upload controllers
+- add custom options to your image upload controllers
 
 $('#content').redactor({
   plugins: ['customimg'],
   imageHandlers: './directory_to/image_upload',
 });
 
-4. And voila, the plugin ready to use
+- And voila, the plugin ready to use
 
 ============================================
 
