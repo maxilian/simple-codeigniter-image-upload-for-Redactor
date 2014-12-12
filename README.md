@@ -22,7 +22,9 @@ How to use it.
 
 - add script to your editor page
 
+```
 <script src="http://url.to/customimg.js"></script>
+```
 
 - initilize the plugin to redactor init script
 
