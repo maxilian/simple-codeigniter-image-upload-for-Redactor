@@ -12,29 +12,34 @@ so currently I only upload the controller which will handle upload process.
 I have upload it, under name of customimg.js, my code isn't clean enough I hope you understand how I written the code.
 
 what's new?
-1. this plugin isn't use default upload using drop file method, so we must select the file manually
-2. this plugin isn't automatic upload, I use submit button to confirm the upload.
-3. adding caption field for the image by some reason :p
+- this plugin isn't use default upload using drop file method, so we must select the file manually
+- this plugin isn't automatic upload, I use submit button to confirm the upload.
+- adding caption field for the image by some reason :p
 
 ===========================================
 
 How to use it.
 
 - add script to your editor page
+
 <script src="http://url.to/customimg.js"></script>
 
 - initilize the plugin to redactor init script
 
+```
 $('#content').redactor({
   plugins: ['customimg'],
 });
+```
 
 - add custom options to your image upload controllers
 
+```
 $('#content').redactor({
   plugins: ['customimg'],
   imageHandlers: './directory_to/image_upload',
 });
+```
 
 - And voila, the plugin ready to use
 
