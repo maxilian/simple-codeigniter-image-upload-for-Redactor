@@ -45,7 +45,7 @@ RedactorPlugins.customimg = function()
 					}
 				});
 				this.customimg.createButton(); //adding control button
-				
+				this.selection.save(); //save current cursor position
 				this.modal.show();
 			
 		},
