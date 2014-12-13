@@ -47,7 +47,12 @@ $('#content').redactor({
 
 ============================================
 
-for more documentation about redactor plugin, you can go to http://imperavi.com/redactor/docs/
+Note : I'm not adding error handling so you should figure it out by yourself
+
+============================================
+
+
+For more documentation about redactor plugin and API's, you can go to http://imperavi.com/redactor/docs/
 Redactor is propietary software, so don't forget to purchase :)
 
 Hope you enjoy with my plugin.
