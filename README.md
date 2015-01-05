@@ -1,4 +1,4 @@
-simple codeigniter image upload for Redactor
+simple codeigniter image upload for Redactor [![Buy me a coffee](http://files.nette.org/images/coffee1s.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VAFHFTVQVW6MQ&lc=ID&item_name=panicscript&currency_code=USD&bn=PP%2dDonationsBF%3acoffee1s%2epng%3aNonHosted)
 ============================================
 
 Recently I working on a web application that needed to upload image within editor field, not a separated upload. 
